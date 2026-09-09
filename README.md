@@ -32,11 +32,6 @@ Focusing on Low-Latency Systems, RTL Design, FPGA Acceleration, and Hardware/Sof
 * **Deployment Workflows:** Streamlined system deployment workflows across **20+ enterprise client networks** by authoring custom PowerShell and Linux automation tools.
 * **Performance Optimization:** Analyzed network packet logs and system uptime metrics to eliminate bottlenecks, improving remote server uptime to **99.8%**.
 
-### Hardware Infrastructure Intern | LANWAN Enterprise
-*Orange County, CA • June 2025 – August 2026*
-* **Systems Architecture:** Deployed and optimized enterprise server hardware infrastructure and managed physical communication bus arrays.
-* **Diagnostics & Uptime:** Diagnosed physical hardware failures and tracked system uptime metrics across physical and network layers.
-* **Technical Operations:** Communicated operational bottlenecks and system metrics directly to infrastructure management teams.
 
 ### Data Operations Engineering Intern | EOS Labs
 *Remote • February 2024 – June 2024*
