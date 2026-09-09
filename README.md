@@ -1,7 +1,6 @@
 # Hi, I'm John Sara 👋
 
 **Computer Engineering Sophomore @ UT Dallas | Economics Minor**  
-Focusing on Low-Latency Systems, RTL Design, FPGA Acceleration, and Hardware/Software Co-Design.
 
 [LinkedIn](https://linkedin.com) • [GitHub](https://github.com/john-sara)
 
