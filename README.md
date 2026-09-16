@@ -2,7 +2,7 @@
 
 **Computer Engineering Sophomore @ UT Dallas | Economics Minor**  
 
-[LinkedIn](https://linkedin.com) • [GitHub](https://github.com/john-sara)
+[LinkedIn](https://linkedin.com) • [Portfolio]john-sara.github.io
 
 ---
 
