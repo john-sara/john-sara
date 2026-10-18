@@ -1,47 +1,28 @@
-# Hi, I'm John Sara 👋
+# John Sara
 
-**Computer Engineering Sophomore @ UT Dallas | Economics Minor**  
-
-[LinkedIn](https://linkedin.com) • [Portfolio](https://john-sara.github.io)
+Computer Engineering sophomore @ UT Dallas | Building ML systems
 
 ---
 
-## 🚀 Key Projects
+I'm interested in **AI/ML systems architecture**—specifically how to optimize neural networks for real hardware constraints. I care about the full stack: model design, inference optimization, and deployment.
 
-### ⚡ Hardware-Accelerated HFT Order Matching Engine
-**C++20 | SystemVerilog | AXI4-Stream | DPI-C | Verilator | GoogleTest | CMake**
-* Architected a single-cycle FPGA matching engine in SystemVerilog processing price-time priority execution at **3.33 ns latency** (@ 300MHz target clock).
-* Engineered a lock-free C++ host driver with zero-copy bit packing over an **AXI4-Stream** transport layer, establishing a sub-nanosecond payload baseline (**1.25 ns/order**).
-* Built a hardware-in-the-loop co-simulation testbench using **DPI-C**, **Verilator**, and **GoogleTest** to verify cycle-accurate logic, residual inventory state, and stream handshaking.
-* 🔗 [View Repository](https://github.com/john-sara/hft-matching-engine)
+Currently working on **Distill**, an inference optimization toolkit for profiling and quantizing models efficiently.
 
-### 💻 Synthesizable RISC-V (RV32I) Processor Core
-**Verilog | RTL Design | AMD Vivado | Behavioral Simulation | Logic Verification**
-* Designed and verified a synthesizable single-cycle 32-bit RV32I datapath featuring an integrated ALU and dual-port synchronous register file.
-* Developed a continuous 50MHz hardware clock testbench to validate instruction execution and pipeline logic inside AMD Vivado.
-* 🔗 [View Repository](https://github.com/john-sara/riscv-rv32i-core)
+## What I'm learning
+- Model optimization (quantization, pruning, knowledge distillation)
+- Hardware-software co-design for inference
+- Building tools that people actually use
+- Eventually: founding something in this space
 
----
+## Technologies
+- **Languages:** Python, C++
+- **ML/AI:** PyTorch, ONNX Runtime
+- **Tools:** VS Code, Git, AMD Vivado
 
-## 💼 Experience
-
-### IT & Automation Engineering Intern | LANWAN IT Solutions
-*Irvine, CA • July 2025 – August 2026*
-* **Network Automation:** Automated network infrastructure monitoring and diagnostic scripts using Python and Bash, reducing manual troubleshooting time by **35%**.
-* **Deployment Workflows:** Streamlined system deployment workflows across **20+ enterprise client networks** by authoring custom PowerShell and Linux automation tools.
-* **Performance Optimization:** Analyzed network packet logs and system uptime metrics to eliminate bottlenecks, improving remote server uptime to **99.8%**.
-
-
-### Data Operations Engineering Intern | EOS Labs
-*Remote • February 2024 – June 2024*
-* **Pipeline Management:** Managed data ingestion pipelines for laboratory datasets, maintaining **99.5%+ input accuracy** across 1,000+ weekly records.
-* **Process Streamlining:** Reduced record processing time by **20%** by building custom Excel data formatting and validation scripts.
-* **Database Restructuring:** Designed a systematic data tagging system that improved accessibility and enabled senior research engineers to analyze data **30% faster**.
+## Experience
+- **IT & Automation Engineering Intern** @ LANWAN IT Solutions (Jul 2025 - Aug 2026)
+- **Data Operations Engineering Intern** @ EOS Labs (Feb 2024 - Jun 2024)
 
 ---
 
-## 🛠️ Technical Skillset
-
-* **Languages:** C++20, SystemVerilog, Verilog, C, Python, Bash, PowerShell, SystemC
-* **Hardware & Protocols:** AXI4-Stream, DPI-C, PCIe, RISC-V (RV32I), FPGA Synthesis, Digital Logic Design
-* **Tools & Infrastructure:** Verilator, AMD Vivado, GoogleTest, CMake, Git, Linux/WSL, CTest, GTKWave, Network Packet Analysis
+**Email:** johnrsara@gmail.com | **[LinkedIn](https://linkedin.com/in/john-sara77)**
