@@ -1,25 +1,27 @@
 # John Sara
 
-Computer Engineering @ UT Dallas | AI/ML Systems Builder
+Computer Engineering student at UT Dallas, building AI/ML systems and looking for an internship.
 
-I'm interested in AI/ML systems architecture, specifically how to run neural networks efficiently on real hardware. I care about the full stack: model design, inference optimization, and deployment.
+I like the part of AI that sits between the model and the user: how it gets served, how fast it runs, and how you know whether it works. Two projects so far.
 
-Currently working on [Distill](https://github.com/john-sara/distill), a tool that benchmarks quantization on your own hardware. It compares int8 and float16 models against the float32 original and reports latency, memory, and how closely the outputs still match.
+## Projects
 
-## What I'm learning
-- Model optimization (quantization, pruning, knowledge distillation)
-- Hardware-software co-design for inference
-- Building tools that people actually use
-- Eventually: founding something in this space
+**[Scout](https://github.com/john-sara/scout)** ([live demo](https://scout-bc8e.onrender.com)) answers questions about the FastAPI docs. An agent searches the docs, reads the pages it needs, and numbers every source it cites. It comes with an evaluation of 33 labeled questions that compares models on answer quality, citations, latency, and cost. Haiku 5.5 scored 98% at about a fifteenth of Sonnet 5.5's price per answer. I also compared BM25, embeddings, and a hybrid of the two for finding the right page.
 
-## Technologies
-- Languages: Python, C++
-- ML/AI: PyTorch, ONNX Runtime, CUDA
-- Web: FastAPI, React
-- Tools: VS Code, Git, AMD Vivado
+**[Distill](https://github.com/john-sara/distill)** benchmarks a model against its quantized version on your own hardware and reports latency, memory, and how closely the outputs still match. On my RTX 2060, running ResNet50 in float16 instead of float32 cut latency per batch of 32 from 67.9 ms to 36.1 ms and peak GPU memory from 466 MB to 253 MB.
+
+## Skills
+
+- Languages: Python, C++, C, MATLAB, SQL
+- ML and AI: PyTorch, ONNX Runtime, CUDA, Claude API, Ollama, tool-calling agents, BM25 retrieval, LLM evaluation, quantization
+- Backend: FastAPI, REST APIs, React, unittest, Docker, Render
+- Tools: Git, VS Code, AMD Vivado
 
 ## Experience
-- IT & Automation Engineering Intern @ LANWAN IT Solutions (Jul 2025 - Aug 2026)
-- Data Operations Engineering Intern @ EOS Labs (Feb 2024 - Jun 2024)
 
-Email: johnrsara@gmail.com | [LinkedIn](https://linkedin.com/in/john-sara77)
+- IT Infrastructure Engineering Intern, LANWAN IT Solutions (May 2026 to Aug 2026)
+- Data Operations Engineering Intern, EOS Labs (Feb 2024 to Jun 2024)
+
+## Contact
+
+[johnrsara@gmail.com](mailto:johnrsara@gmail.com) | [LinkedIn](https://linkedin.com/in/john-sara77) | [Portfolio](https://john-sara.github.io)
